@@ -1,0 +1,16 @@
+# ESP-IDF and CMake build artifacts
+build/
+build_*/
+cmake-build-*/
+
+# Generated configuration backups
+sdkconfig.old
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
